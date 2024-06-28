@@ -15,23 +15,24 @@ Management-Systems/
 │ ├── create_tables.sql
 │ ├── insert_data.sql
 │ ├── queries.sql
-│ ├── README.md
-│ └── Proposal-Social-Management.md
-│
+|
 ├── Financial-Management-System/
 │ ├── create_tables.sql
 │ ├── insert_data.sql
 │ ├── queries.sql
-│ ├── README.md
-│ └── Proposal-Financial-Management.md
-│
+|
 └── University-Management-System/
 ├── create_tables.sql
 ├── insert_data.sql
 ├── queries.sql
-├── README.md
-└── Proposal-University-Management.md
+
 ```
+# All queries code
+all scheme queries are inside the word file "Database projects Queries for oracle.docx"
+- create sql filew with required name 
+- create table according to queries name
+- repalce code step by step
+- do for all schema
 
 ## Social Management System Proposal
 
@@ -74,7 +75,6 @@ The Financial Management System facilitates financial operations and reporting. 
 - **Transactions Table**: Tracks financial transactions.
 - **Categories Table**: Categorizes financial transactions.
 
-For detailed implementation steps and SQL scripts, refer to [Proposal-Financial-Management.md](Financial-Management-System/Proposal-Financial-Management.md).
 
 ## University Management System Proposal
 
@@ -96,7 +96,6 @@ The University Management System supports academic and administrative processes.
 - **Courses Table**: Lists available courses and descriptions.
 - **Admission Requirements Table**: Defines admission criteria for programs.
 
-For detailed implementation steps and SQL scripts, refer to [Proposal-University-Management.md](University-Management-System/Proposal-University-Management.md).
 
 ## Prerequisites
 
